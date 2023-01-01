@@ -2,10 +2,9 @@
 ## Somethings About Me:
 
 - 🔭 I’m currently working on web Development
-- 🌱 I’m currently learning Machine Learning
-- 💬 Ask me about AI or AR/VR
+- 🌱 AI & ML Enthusiastic
 - 📫 How to reach me: vinittavde@gmail.com
-- ⚡ Fun fact: I like to play cricket and I am a pretty good artist
+- ⚡ Fun fact: I like to play cricket
 
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit5112&show_icons=true&theme=radical)
