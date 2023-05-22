@@ -11,6 +11,8 @@
 
 ## My Github Stats
 ![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit5112&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinit5112&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit5112&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## MY Language skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit5112&layout=compact)
