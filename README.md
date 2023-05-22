@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinit_5112?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-tavde-323076206/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VinitTavde?t=vXXhN3eGancxYE_Lp0rj1g&s=09)
 
 ## My Github Stats
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit5112&show_icons=true&theme=radical)
+![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit5112&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinit5112&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit5112&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
