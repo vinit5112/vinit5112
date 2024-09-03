@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Somethings About Me:
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on AI.
 - 🌱 AI & ML Enthusiastic
 - 📫 How to reach me: vinittavde@gmail.com
 - ⚡ Fun fact: I like to play cricket
